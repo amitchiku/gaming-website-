@@ -1,4 +1,4 @@
-LAD Games is a modern online gaming platform where users can play fun browser-based games instantly — with no signup, no downloads, and completely free. The platform is designed for speed, simplicity, and accessibility across all devices.
+this Games is a modern online gaming platform where users can play fun browser-based games instantly — with no signup, no downloads, and completely free. The platform is designed for speed, simplicity, and accessibility across all devices.
 
 🔗 Live Website: https://www.ladgames.online/
 
