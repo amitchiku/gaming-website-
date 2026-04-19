@@ -44,7 +44,7 @@ const Navbar = () => {
         {/* Logo */}
         <Link to="/" className="flex items-center gap-2 text-2xl font-bold tracking-wide text-[#57A6A1]">
           <img src={logo} alt="LAD Logo" className="h-9 w-9 object-contain" />
-          <span>LAD</span>
+          <span>AMTICHIKU🩵</span>
         </Link>
 
         {/* Desktop Navigation */}

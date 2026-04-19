@@ -63,7 +63,7 @@ const HomeSlider = () => {
                     leading-relaxed
                   "
                 >
-                  Welcome to Gaming World
+                  Welcome to AMITCHIKU's-Gaming World
                 </p>
 
                 <button

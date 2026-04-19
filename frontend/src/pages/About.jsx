@@ -16,10 +16,10 @@ const About = () => {
       {/* Hero Section */}
       <section className="max-w-7xl mx-auto px-6 py-20 text-center">
         <h1 className="text-4xl md:text-6xl font-extrabold mb-6">
-          <i className="fa-solid text-[#9ceef1] fa-gamepad"></i> About <span className="text-[#9ceef1]">LAD</span>
+          <i className="fa-solid text-[#9ceef1] fa-gamepad"></i> About <span className="text-[#9ceef1]">AMTCHIKU-gaming-web</span>
         </h1>
         <p className="text-gray-300 text-lg max-w-3xl mx-auto">
-          LAD is a free web-based gaming platform where fun starts instantly.
+          AMITCHIKU-gaming-web is a free web-based gaming platform where fun starts instantly.
           No downloads. No installs. No waiting.
           Just open your browser and start playing.
         </p>
@@ -30,7 +30,7 @@ const About = () => {
         <div className="bg-linear-to-r from-[#133B5C] via-[#1E5F74] to-[#133B5C] rounded-2xl p-8 shadow-lg hover:shadow-purple-700/30 transition">
           <h2 className="text-3xl font-bold mb-4">👾 Who We Are</h2>
           <p className="text-gray-300 leading-relaxed">
-            LAD was built by gamers who were tired of heavy downloads, long
+            AMITCHIKU-gaming-web was built by gamers who were tired of heavy downloads, long
             loading screens, and complicated setups. We believe gaming should
             be simple, fast, and accessible to everyone — whether you’re on a
             high-end PC or a basic device.
@@ -53,9 +53,9 @@ const About = () => {
 
         {/* Why LAD */}
         <div className="bg-linear-to-r from-[#133B5C] via-[#1E5F74] to-[#133B5C] rounded-2xl p-8 shadow-lg hover:shadow-purple-700/30 transition">
-          <h2 className="text-3xl font-bold mb-4">🔥 Why LAD?</h2>
+          <h2 className="text-3xl font-bold mb-4">🔥 Why AMITCHIKU's gaming-web?</h2>
           <p className="text-gray-300 leading-relaxed">
-            LAD removes all the barriers between you and fun. No accounts,
+            AMITCHIKU-gaming-web removes all the barriers between you and fun. No accounts,
             no installs, and no high system requirements. Whether you want
             a quick gaming break or a long session, LAD is always ready.
           </p>
@@ -67,7 +67,7 @@ const About = () => {
         <div className="bg-linear-to-br from-[#09203F] to-[#537895] rounded-2xl p-10 text-center shadow-xl">
           <h2 className="text-3xl font-bold mb-4">🚀 Our Vision</h2>
           <p className="text-gray-200 max-w-3xl mx-auto leading-relaxed">
-            We’re building LAD into a fast, fun, and reliable gaming hub.
+            We’re building AMITCHIKU-gaming-web into a fast, fun, and reliable gaming hub.
             More games, better performance, and exciting community features
             are coming soon. Our goal is simple — make gaming accessible
             to everyone.
@@ -78,7 +78,7 @@ const About = () => {
       {/* CTA */}
       <section className="text-center py-16">
         <h3 className="text-2xl font-bold mb-6">
-          Ready to Play? 🎯
+          Ready to Play? Baby 🎯
         </h3>
         <Link
           to="/all-games"

@@ -45,7 +45,7 @@ const Home = () => {
 
       {/* Welcome Section */}
       <section className="px-4 pb-10 text-center bg-linear-to-b from-[#240750] via-[#344C64] to-[#240750]">
-        <h1 className="pt-10 text-2xl sm:text-3xl md:text-4xl font-bold text-[#57a671]">Welcome to LAD Games 🎮</h1>
+        <h1 className="pt-10 text-2xl sm:text-3xl md:text-4xl font-bold text-[#57a671]">Welcome to AMITCHIKU's Games 🎮</h1>
         <div className="relative mt-4 flex justify-center">
           <span className="h-0.5 w-40 bg-[#57A6A1] rounded-full"></span>
         </div>
@@ -62,7 +62,7 @@ const Home = () => {
           via-[#344C64] to-[#240750] text-white"
       >
         {/* Section Heading */}
-        <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-center text-[#57A6A1]">Why Play on LAD?</h2>
+        <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-center text-[#57A6A1]">Why Play on AMITCHIKU's-gaming-web?</h2>
 
         <p className="mt-3 text-sm sm:text-base text-gray-300 text-center max-w-2xl mx-auto">Built for gamers who just want to play — fast, free, and fun.</p>
 

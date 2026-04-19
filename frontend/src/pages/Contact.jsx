@@ -49,14 +49,14 @@ const Contact = () => {
 
             <p className="mt-4 text-gray-300 text-sm sm:text-base max-w-md">
               Have a question, feedback, or business inquiry?  
-              Drop us a message and we’ll get back to you within 24–48 hours.
+              Drop us a message and we’ll get back to you within 24–48 hours <br />powered by AMITCHIKU.
             </p>
 
             <div className="mt-8 space-y-4">
               <div className="flex items-center gap-4 bg-white/5 p-4 rounded-lg backdrop-blur">
                 <span className="text-xl"><i className="fas fa-envelope"></i></span>
                 <span className="text-sm text-gray-200">
-                  ladgamesinfo@gmail.com
+                  amitchiku2006@gmail.com
                 </span>
               </div>
 
@@ -91,7 +91,7 @@ const Contact = () => {
                   type="text"
                   name="user_name"
                   required
-                  placeholder="John snow"
+                  placeholder="amit chiku"
                   className="mt-1 w-full px-4 py-2.5 rounded-lg bg-[#344C64]/70 border border-[#577B8D] focus:outline-none focus:ring-2 focus:ring-[#57A6A1]
                     text-white"
                 />
@@ -103,7 +103,7 @@ const Contact = () => {
                   type="email"
                   name="user_email"
                   required
-                  placeholder="John@email.com"
+                  placeholder="amitchiku2006@gmail.com"
                   className="mt-1 w-full px-4 py-2.5 rounded-lg bg-[#344C64]/70 border border-[#577B8D] focus:outline-none focus:ring-2 focus:ring-[#57A6A1]
                     text-white"
                 />

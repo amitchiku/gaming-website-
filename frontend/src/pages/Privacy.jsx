@@ -19,7 +19,7 @@ const PrivacyPolicy = () => {
 
           <div className="mt-10 space-y-8 text-sm sm:text-base text-gray-300">
             <p>
-              At <strong>LAD Games</strong>, your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your information when you use our website and play games
+              At <strong>AMICHIKU-gaming-web</strong>, your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your information when you use our website and play games
               hosted or embedded from third-party game monetization platforms.
             </p>
           </div>

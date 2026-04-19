@@ -11,7 +11,7 @@ const Footer = () => {
 
           {/* Brand */}
           <div>
-            <h2 className="text-2xl font-bold text-[#57A6A1]">LAD</h2>
+            <h2 className="text-2xl font-bold text-[#57A6A1]">AMITCHIKU</h2>
             <p className="text-sm text-gray-300 mt-3 leading-relaxed">
               Play free online games anytime.  
               Enjoy action, arcade, racing, and casual games.
@@ -64,7 +64,7 @@ const Footer = () => {
 
         {/* Divider */}
         <div className="border-t border-[#577B8D] mt-8 pt-5 text-center md:flex md:items-center md:justify-between text-sm text-gray-400">
-          <p>© {new Date().getFullYear()} LAD Games. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} AMITCHIKU's games. All rights reserved.</p>
           <p className="mt-2 md:mt-0">
             Games powered by third-party providers
           </p>

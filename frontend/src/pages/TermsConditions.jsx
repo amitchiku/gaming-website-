@@ -15,12 +15,12 @@ const TermsConditions = () => {
         <section className="max-w-4xl mx-auto bg-white/10  backdrop-blur-xl border border-white/20  rounded-2xl p-6 sm:p-8 shadow-xl">
           <h1 className="text-2xl sm:text-3xl text-center font-bold text-[#57A6A1]">Terms & Conditions</h1>
 
-          <p className="text-center text-sm mt-3 text-gray-400">LAD Games</p>
+          <p className="text-center text-sm mt-3 text-gray-400">AMITCHIKU's Games</p>
 
           <div>
             <h2 className="mt-3 font-semibold text-[#B6F500] text-lg">1. Acceptance of Terms</h2>
             <p className="mt-2 text-gray-300">
-              By accessing or using LAD Games, you agree to comply with and be bound by these Terms and Conditions. If you do not agree with any part of these terms, please do not use our website.
+              By accessing or using AMICHIKU's Games, you agree to comply with and be bound by these Terms and Conditions. If you do not agree with any part of these terms, please do not use our website.
             </p>
           </div>
           <div>
@@ -54,7 +54,7 @@ const TermsConditions = () => {
           <div>
             <h2 className="mt-3 font-semibold text-[#B6F500] text-lg">6. Intellectual Property</h2>
             <p className="mt-2 text-gray-300">
-              Website design, logo, branding, and original content belong to LAD Games.
+              Website design, logo, branding, and original content belong to AMICHIKU's Games.
               <br /> Games, images, and trademarks belong to their respective owners You may not copy or redistribute content without permission
             </p>
           </div>
@@ -68,7 +68,7 @@ const TermsConditions = () => {
 
           <div>
             <h2 className="mt-3 font-semibold text-[#B6F500] text-lg">8. Limitation of Liability</h2>
-            <p className="mt-2 text-gray-300">LAD Games shall not be liable for: Any direct or indirect damages Loss of data, progress, or enjoyment Issues caused by third-party games or ads</p>
+            <p className="mt-2 text-gray-300">AMITCHIKU's Games shall not be liable for: Any direct or indirect damages Loss of data, progress, or enjoyment Issues caused by third-party games or ads</p>
           </div>
 
           <div>
@@ -93,7 +93,7 @@ const TermsConditions = () => {
             <h2 className="mt-3 font-semibold text-[#B6F500] text-lg">12. Contact Information</h2>
             <p className="mt-2 text-gray-300">
               If you have any questions about these Terms & Conditions, you can contact us at: <br />
-              ✉️ Email: ladgamesinfo@gmail.com
+              ✉️ Email: amitchiku2006@gmail.com
             </p>
           </div>
         </section>

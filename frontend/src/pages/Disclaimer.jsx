@@ -18,7 +18,7 @@ const Disclaimer = () => {
           <div>
             <h2 className="mt-3 font-semibold text-[#B6F500] text-lg">1. General Information</h2>
             <p className="mt-2 text-gray-300">
-              he information and games provided on LAD Games are for entertainment purposes only. All content on this website is provided in good faith; however, we make no representations or
+              he information and games provided on AMITCHIKU's Games are for entertainment purposes only. All content on this website is provided in good faith; however, we make no representations or
               warranties of any kind regarding accuracy, reliability, or availability.
             </p>
           </div>
